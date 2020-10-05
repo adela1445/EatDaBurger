@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(13, 79, 82);
+  color: blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
+#titleHead {
+  font-style: italic;
+}
+#burgerPng {
+  border-style: dotted;
+  border-radius: 50%;
+  border-color: brown;
+  border-width: thick;
+}
